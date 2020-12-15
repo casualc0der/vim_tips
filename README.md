@@ -1,1 +1,1 @@
-(folding)[https://vim.fandom.com/wiki/Folding]
+[Folding](https://vim.fandom.com/wiki/Folding)
